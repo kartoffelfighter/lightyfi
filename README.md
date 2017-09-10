@@ -1,6 +1,6 @@
 # lightyfi
 
-lightyfi ist der Entwurf einer, auf open-source software sowie hardware, basierten Lichtfliese mit WLAN-Anbindung und Steuerung per Android-App
+lightyfi ist der Entwurf einer, auf open-source software sowie hardware basierten, Lichtfliese mit WLAN-Anbindung und Steuerung per Android-App
 
 # Aufbau der Ordner
 Die Ordner im git sind gegliedert und gleichzeitig etwas Durchmischt.
